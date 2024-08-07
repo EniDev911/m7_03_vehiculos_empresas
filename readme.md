@@ -16,7 +16,7 @@ Crear vehículo
 
 Crear chofer
 
-![crear_vehiculo](crear_chofer.png.png)
+![crear_vehiculo](crear_chofer.png)
 
 ## Modelos
 
